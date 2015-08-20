@@ -1,9 +1,9 @@
-#Ä½¿ÎÍøÉÏÁ·Ï°
+#mchenfwwindç»ƒä¹ 
 
 #coreJava
-ÎÄ¼þ´«Êä»ù´¡¡ª¡ªJava IOÁ÷ 
-JavaÖÐµÄÊäÈëÊä³öÁ÷µÄÄÚÈÝ£¬°üÀ¨ÎÄ¼þ±àÂë¡¢Ê¹ÓÃFileÀà¶ÔÎÄ¼þºÍÄ¿Â¼½øÐÐ¹ÜÀí¡¢×Ö½ÚÁ÷ºÍ×Ö·ûÁ÷µÄ»ù±¾²Ù×÷£¬ÒÔ¼°¶ÔÏóµÄÐòÁÐ»¯ºÍ·´ÐòÁÐ»¯µÄÄÚÈÝ¡£ 
+æ–‡ä»¶ä¼ è¾“åŸºç¡€â€”â€”Java IOæµ 
+Javaä¸­çš„è¾“å…¥è¾“å‡ºæµçš„å†…å®¹ï¼ŒåŒ…æ‹¬æ–‡ä»¶ç¼–ç ã€ä½¿ç”¨Fileç±»å¯¹æ–‡ä»¶å’Œç›®å½•è¿›è¡Œç®¡ç†ã€å­—èŠ‚æµå’Œå­—ç¬¦æµçš„åŸºæœ¬æ“ä½œï¼Œä»¥åŠå¯¹è±¡çš„åºåˆ—åŒ–å’Œååºåˆ—åŒ–çš„å†…å®¹ã€‚ 
 
 #JavaMultithreading
-ÉîÈëÇ³³öJava¶àÏß³Ì
-ÁË½âJavaÖÐ¶àÏß³ÌÏà¹ØµÄ»ù±¾¸ÅÄî£¬ÈçºÎ´´½¨£¬Æô¶¯ºÍÍ£Ö¹Ïß³Ì
+æ·±å…¥æµ…å‡ºJavaå¤šçº¿ç¨‹
+äº†è§£Javaä¸­å¤šçº¿ç¨‹ç›¸å…³çš„åŸºæœ¬æ¦‚å¿µï¼Œå¦‚ä½•åˆ›å»ºï¼Œå¯åŠ¨å’Œåœæ­¢çº¿ç¨‹
